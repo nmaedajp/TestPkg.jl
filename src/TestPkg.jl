@@ -1,5 +1,7 @@
 module TestPkg
 
+export greet
+
 using Primes
 using Dates
 # Write your package code here.
