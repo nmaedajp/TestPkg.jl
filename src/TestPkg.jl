@@ -14,7 +14,7 @@ using Dates
     if isprime(today2int()) 
        print("こんにちは! $(today2int()) は 素数です! がんばりましょう！")
        else
-       print("Hello ! $(today2int()) is not prime ! ")
+       print("Hello ! $(today2int()) is not prime ! です．")
     end
   end
 end
