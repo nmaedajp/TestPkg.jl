@@ -12,7 +12,7 @@ using Dates
   end
   function greet()
     if isprime(today2int()) 
-       print("Hello ! $(today2int()) is prime ! ")
+       print("こんにちは! $(today2int()) は 素数です! がんばりましょう！")
        else
        print("こんにちは! $(today2int()) は素数ではありません! ")
     end

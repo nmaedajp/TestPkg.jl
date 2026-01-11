@@ -1,7 +1,7 @@
 name = "TestPkg"
 uuid = "c0745897-c162-4383-84c2-992d5e482560"
 authors = ["Naoki Maeda"]
-version = "0.1.0"
+version = "0.1.2"
 
 [deps]
 Dates = "ade2ca70-3891-5945-98fb-dc099432e06a"
